@@ -1,0 +1,1 @@
+This is a gesture based Desktop controller with opencv and python that can control computer's hotkeys like Alt + Tab or Windows + D with just hand gestures, used mediapipe library to read the hand gestures with user's webcam and then controlled user's desktop with pyautogui library to press hotkeys
